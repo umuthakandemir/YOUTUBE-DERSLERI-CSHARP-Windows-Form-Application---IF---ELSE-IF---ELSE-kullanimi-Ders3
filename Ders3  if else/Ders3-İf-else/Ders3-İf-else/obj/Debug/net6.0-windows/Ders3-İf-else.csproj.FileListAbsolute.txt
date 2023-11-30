@@ -1,0 +1,17 @@
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\bin\Debug\net6.0-windows\Ders3-İf-else.exe
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\bin\Debug\net6.0-windows\Ders3-İf-else.deps.json
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\bin\Debug\net6.0-windows\Ders3-İf-else.runtimeconfig.json
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\bin\Debug\net6.0-windows\Ders3-İf-else.dll
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\bin\Debug\net6.0-windows\Ders3-İf-else.pdb
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\obj\Debug\net6.0-windows\Ders3-İf-else.csproj.AssemblyReference.cache
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\obj\Debug\net6.0-windows\Ders3_İf_else.Form1.resources
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\obj\Debug\net6.0-windows\Ders3-İf-else.csproj.GenerateResource.cache
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\obj\Debug\net6.0-windows\Ders3-İf-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\obj\Debug\net6.0-windows\Ders3-İf-else.AssemblyInfoInputs.cache
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\obj\Debug\net6.0-windows\Ders3-İf-else.AssemblyInfo.cs
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\obj\Debug\net6.0-windows\Ders3-İf-else.csproj.CoreCompileInputs.cache
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\obj\Debug\net6.0-windows\Ders3-İf-else.dll
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\obj\Debug\net6.0-windows\refint\Ders3-İf-else.dll
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\obj\Debug\net6.0-windows\Ders3-İf-else.pdb
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\obj\Debug\net6.0-windows\Ders3-İf-else.genruntimeconfig.cache
+C:\Users\Umut Hakan Demir\Desktop\YouTube Dersleri\C#\Ders3  if else\Ders3-İf-else\Ders3-İf-else\obj\Debug\net6.0-windows\ref\Ders3-İf-else.dll
